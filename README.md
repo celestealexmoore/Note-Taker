@@ -44,6 +44,11 @@
   THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column`  
 
   ## Media  
+
+
+  ![Photo 1](./assets/note-taker.png)  
+    
+
   [This is the link to the deployed application](./utils/readme-generator-vid.mov)  
   
   ## Installation  
